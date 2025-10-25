@@ -105,7 +105,7 @@ public class Bootstrap
         envVars.put("HY2_PORT", "48867");
         envVars.put("TUIC_PORT", "25779");
         envVars.put("REALITY_PORT", "39492");
-        envVars.put("UPLOAD_URL", "39492");
+        envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "8385614881");
         envVars.put("BOT_TOKEN", "8296881787:AAFhzl1sF14A8FJFLM6EWzaKlEtPRG6c0BU");
         envVars.put("CFIP", "store.ubi.com");
